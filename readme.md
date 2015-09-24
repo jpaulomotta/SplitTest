@@ -1,9 +1,9 @@
-# Micro Split Test Library for Split Test
+# Micro Split Test Library
 
 ## Split test for developers
 
 This is a micro library for split test in the browser. It's not integrated with any 
-measurement tool (like google analytics), but it enables you to do so.
+measurement tool (like google analytics), but it enables you to do so. It has zero depedencies.
 
 ### Usage
 
@@ -20,6 +20,8 @@ SplitTest.make({
     } 
 });
 ```
+
+Feel free to use any JQuery code in it as it is full JQuery compatible. It doesn`t depend on JQuery.
 
 ### Cookies
 
