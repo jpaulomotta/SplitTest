@@ -1,0 +1,14 @@
+{
+  "name": "SplitTest",
+  "version": "1.0.0",
+  "description": "Tiny browser library to enable split test. It`s super lightweight so there's no integration with google analytics or tool of type. You use the metrics api you want the way you want.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
